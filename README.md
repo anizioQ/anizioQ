@@ -1,6 +1,6 @@
 # :computer: Anizio Queiroz
 
-## Olá!!! 👋
+### Olá!!! 👋
 
 
 <img src="http://views.whatilearened.today/views/github/anizioQ/views.svg"/> <a href="https://github.com/anizioQ/"><img src="https://img.shields.io/github/followers/anizioQ?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
@@ -10,7 +10,7 @@ Tenho interesse em mineração de dados, estatística, visualização, apresenta
 - 🌱 Estudando inferência estatística e distribuições amostrais.
 
 
-## Linguagens e ferramentas:
+### Linguagens e ferramentas:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
