@@ -3,7 +3,7 @@
 ## Olá!!! 👋
 
 
-<img src="http://views.whatilearened.today/views/github/anizioQ/views.svg"/> <a href="https://github.com/anizioQ/"><img src="https://img.shields.io/github/followers/anizioQ/?color=%234CC61E&label=GitHub%20Followers%20%3A"/>
+<img src="http://views.whatilearened.today/views/github/anizioQ/views.svg"/> <a href="https://github.com/anizioQ/"><img src="https://img.shields.io/github/followers/anizioQ/?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a> <img src="https://img.shields.io/badge/Back End-Java/R/Dart-f55247"/>
 
 <!--
 **anizioQ/anizioQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
