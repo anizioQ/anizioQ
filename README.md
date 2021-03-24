@@ -1,15 +1,18 @@
 # :computer: Anizio Queiroz
 
+
 ## Olá!!! 👋
 
-<img src="http://views.whatilearened.today/views/github/anizioQ/views.svg"/> <a href="https://github.com/anizioQ/"><img src="https://img.shields.io/github/followers/anizioQ?color=%234CC61E&label=GitHub%20Followers%20%3A"/>
+
+<img src="http://views.whatilearened.today/views/github/anizioQ/views.svg"/> <a href="https://github.com/anizioQ/"><img src="https://img.shields.io/github/followers/anizioQ?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
+
 
 Sou o Anizio, ex designer gráfico migrando para área de análise e pré-processamento de dados.
 Tenho interesse em mineração de dados, estatística, visualização, apresentação e aprendizado de máquinas. 
 
+
 - 🌱 Estudando inferência estatística e distribuições amostrais.
 
-Here are some ideas to get you started:
 
 <!--
 **anizioQ/anizioQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
