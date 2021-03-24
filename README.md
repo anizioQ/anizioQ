@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<img src="http://views.whatilearened.today/views/github/Prof-Rodrigo-Silva/views.svg"/> <a href="https://github.com/Prof-Rodrigo-Silva/"><img src="https://img.shields.io/github/followers/Prof-Rodrigo-Silva?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a> <img src="https://img.shields.io/badge/Back End-Java/R/Dart-f55247"/>
+-->
+
+<img src="http://views.whatilearened.today/views/github/anizioQ/views.svg"/> <a href="https://github.com/anizioQ/"><img src="https://img.shields.io/github/followers/Prof-Rodrigo-Silva?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a> <img src="https://img.shields.io/badge/Back End-Java/R/Dart-f55247"/>
 
 Sou o Rodrigo, colaborador oficial do projeto [Portugol Studio](http://lite.acad.univali.br/portugol/), na produção de materiais de ensino.
 Tenho interesse na área de aprendizagem de máquina, mineração de dados, redes neurais artificiais, algoritmos genéticos, ensino de programação, desenvolvimento Android e mapeamentos.
@@ -30,4 +32,4 @@ Tenho interesse na área de aprendizagem de máquina, mineração de dados, rede
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prof-Rodrigo-Silva&hide=PlpgSQL,jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
 
--->
+
