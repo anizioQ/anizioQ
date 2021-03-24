@@ -2,7 +2,6 @@
 
 <!--
 **anizioQ/anizioQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
@@ -29,3 +28,4 @@ Tenho interesse na área de aprendizagem de máquina, mineração de dados, rede
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prof-Rodrigo-Silva&hide=PlpgSQL,jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
 
+-->
