@@ -2,7 +2,6 @@
 
 ## Olá!!! 👋
 
-
 <img src="http://views.whatilearened.today/views/github/anizioQ/views.svg"/> <a href="https://github.com/anizioQ/"><img src="https://img.shields.io/github/followers/anizioQ?color=%234CC61E&label=GitHub%20Followers%20%3A"/>
 
 Sou o Anizio, ex designer gráfico migrando para área de análise e pré-processamento de dados.
