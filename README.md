@@ -9,6 +9,8 @@ Tenho interesse em mineração de dados, estatística, visualização, apresenta
 
 - 🌱 Estudando inferência estatística e distribuições amostrais.
 
+Here are some ideas to get you started:
+
 <!--
 **anizioQ/anizioQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - :heart: Techs: R, Java, Dart, Android, Flutter, Data Mining, Mapeamentos entre outras.
