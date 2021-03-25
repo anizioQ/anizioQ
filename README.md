@@ -5,7 +5,7 @@
 
 <img src="http://views.whatilearened.today/views/github/anizioQ/views.svg"/> <a href="https://github.com/anizioQ/"><img src="https://img.shields.io/github/followers/anizioQ?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
 
-Sou o Anizio, ex-designer gráfico migrando para área de análise e pré-processamento de dados.
+Sou o Anizio, estudante autodidata de análise e pré-processamento de dados.
 Tenho interesse em mineração de dados, estatística, visualização, apresentação de dados e aprendizado de máquinas. 
 - 🌱 Estudando inferência estatística e distribuições amostrais.
 
@@ -16,6 +16,7 @@ Tenho interesse em mineração de dados, estatística, visualização, apresenta
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/node.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 
 
