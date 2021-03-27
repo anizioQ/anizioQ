@@ -1,8 +1,6 @@
 # :computer: Anizio Queiroz
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anizioqueiroz/)](https://www.linkedin.com/in/anizioqueiroz/)
 
-[![Facebook Badge](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/anizio/)](https://www.facebook.com/anizio/)
-
 ### Olá!!! 👋
 
 
