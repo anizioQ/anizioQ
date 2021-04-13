@@ -18,7 +18,7 @@
 
 <img src="http://views.whatilearened.today/views/github/anizioQ/views.svg"/> <a href="https://github.com/anizioQ/"><img src="https://img.shields.io/github/followers/anizioQ?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
 
-Sou o Anizio, estudante autodidata de análise de dados.
+Sou o Anizio, estudante autodidata de análise de dados com background em Design Gráfico e de Publicidade.
 Tenho interesse em mineração de dados, estatística, visualização de dados e aprendizado de máquinas. 
 - 🌱 Estudando inferência estatística e distribuições amostrais.
 
