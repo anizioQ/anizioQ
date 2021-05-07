@@ -1,3 +1,6 @@
+<p>
+  <img src="https://github.com/anizioQ/anizioQ/blob/main/capa_linkedin.jpg">
+</p>
 
 # :computer: Anizio Queiroz
 
