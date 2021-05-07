@@ -4,6 +4,7 @@
 
 <!--
 # :computer: Anizio Queiroz
+<img src="http://views.whatilearened.today/views/github/anizioQ/views.svg"/> <a href="https://github.com/anizioQ/"><img src="https://img.shields.io/github/followers/anizioQ?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
 -->
 <a target="_blank" href="https://www.linkedin.com/in/anizioqueiroz/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -15,18 +16,13 @@
 
 <a target="_blank" href="https://www.facebook.com/anizio">
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-</br>
+</a> <br>
 
 ### Olá!!! 👋
-
-
-<img src="http://views.whatilearened.today/views/github/anizioQ/views.svg"/> <a href="https://github.com/anizioQ/"><img src="https://img.shields.io/github/followers/anizioQ?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
 
 Sou o Anizio, estudante autodidata de Análise de Dados com background em Design Gráfico e Publicidade.
 Tenho interesse em mineração de dados, estatística, storytelling e aprendizado de máquinas. 
 - 🌱 Estudando inferência estatística e distribuições amostrais.
-
 
 ### Linguagens e ferramentas:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>
