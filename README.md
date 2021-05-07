@@ -1,3 +1,5 @@
+
+! [] (https://github.com/anizioQ/anizioQ/blob/main/capa_linkedin.jpg?raw=true)
 # :computer: Anizio Queiroz
 
 <a target="_blank" href="https://www.linkedin.com/in/anizioqueiroz/">
