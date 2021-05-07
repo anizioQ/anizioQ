@@ -1,11 +1,5 @@
-<p>
-  <img src="https://github.com/anizioQ/anizioQ/blob/main/capa_linkedin.jpg">
-</p>
-
-<!--
 # :computer: Anizio Queiroz
-<img src="http://views.whatilearened.today/views/github/anizioQ/views.svg"/> <a href="https://github.com/anizioQ/"><img src="https://img.shields.io/github/followers/anizioQ?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
--->
+
 <a target="_blank" href="https://www.linkedin.com/in/anizioqueiroz/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -19,6 +13,7 @@
 </a> <br>
 
 ### Olá!!! 👋
+<img src="http://views.whatilearened.today/views/github/anizioQ/views.svg"/> <a href="https://github.com/anizioQ/"><img src="https://img.shields.io/github/followers/anizioQ?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
 
 Sou o Anizio, estudante autodidata de Análise de Dados com background em Design Gráfico e Publicidade.
 Tenho interesse em mineração de dados, estatística, storytelling e aprendizado de máquinas. 
@@ -34,6 +29,11 @@ Tenho interesse em mineração de dados, estatística, storytelling e aprendizad
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+#
+
+<p>
+  <img src="https://github.com/anizioQ/anizioQ/blob/main/capa_linkedin.jpg">
+</p>
 
 
 
