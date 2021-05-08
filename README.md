@@ -10,7 +10,11 @@
 
 <a target="_blank" href="https://www.facebook.com/anizio">
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a> <br>
+</a>
+
+<a target="_blank" href="https://twitter.com/anizioqueiroz">
+  <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a><br>
 
 ###
 
