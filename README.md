@@ -39,7 +39,7 @@ Tenho interesse em mineração de dados, estatística, storytelling e aprendizad
 #
 
 <p>
-  <img src="https://github.com/anizioQ/anizioQ/blob/main/capa_linkedin.jpg">
+  <img src="https://github.com/anizioQ/anizioQ/blob/main/capa_linkedin.png">
 </p>
 
 
