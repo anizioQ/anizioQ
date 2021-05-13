@@ -25,6 +25,7 @@
 Sou o Anizio, estudante autodidata de Análise de Dados com background em Design Gráfico e Publicidade.
 Tenho interesse em mineração de dados, estatística, storytelling e aprendizado de máquinas. 
 - 🌱 Estudando inferência estatística e distribuições amostrais.
+- ⛏️ Criando o Design System no Figma para meu site pessoal. 
 
 ### Linguagens e ferramentas:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>
