@@ -1,4 +1,6 @@
-# :computer: Anizio Queiroz
+<p>
+  <img src="https://github.com/anizioQ/anizioQ/blob/main/capa_github.png">
+</p>
 
 <a target="_blank" href="https://www.linkedin.com/in/anizioqueiroz/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -38,13 +40,6 @@ Tenho interesse em mineração de dados, estatística, storytelling e aprendizad
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 #
-
-<p>
-  <img src="https://github.com/anizioQ/anizioQ/blob/main/capa_github.png">
-</p>
-
-
-
 
 <!--
 <a href="https://t.me/obrienser/">
